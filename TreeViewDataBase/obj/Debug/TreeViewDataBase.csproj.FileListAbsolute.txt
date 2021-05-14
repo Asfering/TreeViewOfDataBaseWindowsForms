@@ -1,0 +1,11 @@
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\bin\Debug\TreeViewDataBase.exe.config
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\bin\Debug\TreeViewDataBase.exe
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\bin\Debug\TreeViewDataBase.pdb
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.Form1.resources
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.Properties.Resources.resources
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.exe
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.pdb
+C:\Users\Роман\source\repos\TreeViewDataBase\TreeViewDataBase\obj\Debug\TreeViewDataBase.EditAddForm.resources
